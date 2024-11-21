@@ -1,0 +1,30 @@
+{
+  "name": "rag-pipeline",
+  "version": "1.0.0",
+  "description": "RAG Pipeline for PDF processing and analysis",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "eval": "node src/evaluation/run-evals.js",
+    "ingest": "node src/ingestDoc.js"
+  },
+  "dependencies": {
+    "@ai-sdk/azure": "^1.0.3",
+    "@ai-sdk/openai": "^1.0.4",
+    "@langchain/textsplitters": "^0.1.0",
+    "@qdrant/js-client-rest": "^1.12.0",
+    "ai": "^4.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.7",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "uuid": "^9.0.1",
+    "zod": "^3.23.8"
+  }
+}

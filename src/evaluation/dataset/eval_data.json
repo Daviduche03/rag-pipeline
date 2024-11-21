@@ -1,0 +1,1369 @@
+{
+  "testCases": [
+    {
+      "id": 1,
+      "query": "What was Google's total revenue for Q3 2023?",
+      "expectedResult": {
+        "content": "Google reported a total revenue of $76.1 billion for Q3 2023.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "query": "What is the year-over-year growth in advertising revenue?",
+      "expectedResult": {
+        "content": "Advertising revenue grew 12% year-over-year.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "query": "How did Google Cloud perform in Q3 2023?",
+      "expectedResult": {
+        "content": "Google Cloud reported $8.4 billion in revenue, a 20% year-over-year growth.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "query": "What trends were identified in Google's search engine usage?",
+      "expectedResult": {
+        "content": "Search engine usage increased by 8% globally, with notable growth in emerging markets.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "query": "What risks did Google identify for its advertising business?",
+      "expectedResult": {
+        "content": "Google highlighted risks such as increased competition and privacy regulations impacting targeted ads.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "query": "What was Google's operating margin in Q3 2023?",
+      "expectedResult": {
+        "content": "Google's operating margin for Q3 2023 was 28%.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "query": "What key developments occurred in YouTube's revenue stream?",
+      "expectedResult": {
+        "content": "YouTube's revenue reached $8 billion, driven by Shorts monetization and increased subscriptions.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "query": "What is Google's market position in cloud services?",
+      "expectedResult": {
+        "content": "Google Cloud is ranked third in the global cloud services market, with 10% market share.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "query": "What were Google's comments on AI-driven products?",
+      "expectedResult": {
+        "content": "Google highlighted Bard and Workspace AI as key drivers of future innovation.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "query": "What cybersecurity risks were discussed?",
+      "expectedResult": {
+        "content": "Cybersecurity risks include threats to cloud infrastructure and data privacy concerns.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2023.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 11,
+      "query": "What were Alphabet's Q3 2024 consolidated revenues?",
+      "expectedResult": {
+        "content": "Alphabet's consolidated revenues for Q3 2024 were $88.27 billion, representing a 15% year-over-year increase and a 16% increase in constant currency.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Alphabet_Q3_2024_Earnings_Call.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 12,
+      "query": "What were Google's advertising revenues in Q3 2024?",
+      "expectedResult": {
+        "content": "Google's advertising revenues for Q3 2024 were $59.99 billion, a 10% year-over-year increase.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Alphabet_Q3_2024_Earnings_Call.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 13,
+      "query": "What were the revenues from Google Cloud in Q3 2024?",
+      "expectedResult": {
+        "content": "Google Cloud revenues for Q3 2024 amounted to $8.76 billion, showing a 22% year-over-year growth.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Alphabet_Q3_2024_Earnings_Call.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 14,
+      "query": "What were Google's comments on AI-driven products in Q3 2024?",
+      "expectedResult": {
+        "content": "Google highlighted Bard and Workspace AI as key drivers of future innovation, emphasizing their potential for accelerating productivity and enhancing user experience.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Alphabet_Q3_2024_Earnings_Call.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 15,
+      "query": "How did Alphabet's stock perform in Q3 2024?",
+      "expectedResult": {
+        "content": "Alphabet's stock price saw a significant increase in Q3 2024, closing the quarter with a rise of 15% year-over-year.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Alphabet_Q3_2024_Earnings_Call.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 16,
+      "query": "What was NVIDIA's record quarterly revenue for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's record quarterly revenue for Q3 FY25 was $35.1 billion, up 17% from Q2 and up 94% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 17,
+      "query": "What was the record quarterly Data Center revenue for Q3 FY25?",
+      "expectedResult": {
+        "content": "The record quarterly Data Center revenue for Q3 FY25 was $30.8 billion, up 17% from Q2 and up 112% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 18,
+      "query": "What were NVIDIA's GAAP earnings per diluted share for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP earnings per diluted share for Q3 FY25 was $0.78, up 16% from the previous quarter and up 111% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 19,
+      "query": "What were NVIDIA's Non-GAAP earnings per diluted share for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Non-GAAP earnings per diluted share for Q3 FY25 was $0.81, up 19% from the previous quarter and up 103% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 20,
+      "query": "What was NVIDIA's GAAP operating income for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP operating income for Q3 FY25 was $21,869 million, up 17% from Q2 and up 110% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 21,
+      "query": "What was NVIDIA's Non-GAAP operating income for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Non-GAAP operating income for Q3 FY25 was $23,276 million, up 17% from Q2 and up 101% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 22,
+      "query": "What was NVIDIA's GAAP net income for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP net income for Q3 FY25 was $19,309 million, up 16% from Q2 and up 109% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 23,
+      "query": "What was NVIDIA's Non-GAAP net income for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Non-GAAP net income for Q3 FY25 was $20,010 million, up 18% from Q2 and up 100% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 24,
+      "query": "What was NVIDIA's GAAP gross margin for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP gross margin for Q3 FY25 was 74.6%, down 0.5 pts from Q2 and up 0.6 pts from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 25,
+      "query": "What was NVIDIA's Non-GAAP gross margin for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Non-GAAP gross margin for Q3 FY25 was 75.0%, down 0.7 pts from Q2.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 26,
+      "query": "What was NVIDIA's GAAP operating expenses for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP operating expenses for Q3 FY25 were $4,287 million, up 9% from Q2 and up 44% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 27,
+      "query": "What was NVIDIA's Non-GAAP operating expenses for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Non-GAAP operating expenses for Q3 FY25 were $3,046 million, up 9% from Q2 and up 50% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 28,
+      "query": "What was NVIDIA's Gaming revenue for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Gaming revenue for Q3 FY25 was $3.3 billion, up 14% from the previous quarter and up 15% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 29,
+      "query": "What was NVIDIA's Professional Visualization revenue for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Professional Visualization revenue for Q3 FY25 was $486 million, up 7% from the previous quarter and up 17% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 30,
+      "query": "What was NVIDIA's Automotive revenue for Q3 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's Automotive revenue for Q3 FY25 was $449 million, up 30% from the previous quarter and up 72% from a year ago.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 31,
+      "query": "What was NVIDIA's outlook for Q4 FY25 revenue?",
+      "expectedResult": {
+        "content": "NVIDIA's outlook for Q4 FY25 revenue is expected to be $37.5 billion, plus or minus 2%.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 32,
+      "query": "What were NVIDIA's GAAP and Non-GAAP gross margins expected for Q4 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP and Non-GAAP gross margins for Q4 FY25 are expected to be 73.0% and 73.5%, respectively, plus or minus 50 basis points.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 33,
+      "query": "What were NVIDIA's GAAP and Non-GAAP operating expenses expected for Q4 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP and Non-GAAP operating expenses for Q4 FY25 are expected to be approximately $4.8 billion and $3.4 billion, respectively.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 34,
+      "query": "What were NVIDIA's GAAP and Non-GAAP other income and expense expected for Q4 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP and Non-GAAP other income and expense for Q4 FY25 are expected to be an income of approximately $400 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 35,
+      "query": "What were NVIDIA's GAAP and Non-GAAP tax rates expected for Q4 FY25?",
+      "expectedResult": {
+        "content": "NVIDIA's GAAP and Non-GAAP tax rates for Q4 FY25 are expected to be 16.5%, plus or minus 1%, excluding any discrete items.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "NVIDIA_Earnings_Report_Q3_2025.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 36,
+      "query": "What were Google's revenues for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's revenues for the quarter ended September 30, 2024 were $88,268 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37,
+      "query": "What was Google's net income for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's net income for the quarter ended September 30, 2024 was $26,301 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 38,
+      "query": "What were Google's diluted earnings per share for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's diluted earnings per share for the quarter ended September 30, 2024 was $2.12.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 39,
+      "query": "What was Google's income from operations for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's income from operations for the quarter ended September 30, 2024 was $28,521 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 40,
+      "query": "What were Google's total costs and expenses for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's total costs and expenses for the quarter ended September 30, 2024 were $59,747 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 41,
+      "query": "What was Google's provision for income taxes for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's provision for income taxes for the quarter ended September 30, 2024 was $5,405 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 42,
+      "query": "What was Google's net cash provided by operating activities for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's net cash provided by operating activities for the quarter ended September 30, 2024 was $30,698 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 43,
+      "query": "What was Google's net cash used in investing activities for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's net cash used in investing activities for the quarter ended September 30, 2024 was $18,011 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 44,
+      "query": "What was Google's net cash used in financing activities for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's net cash used in financing activities for the quarter ended September 30, 2024 was $20,094 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 45,
+      "query": "What was Google's cash and cash equivalents at the end of the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's cash and cash equivalents at the end of the quarter ended September 30, 2024 were $19,959 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 46,
+      "query": "What were Google's revenues from Google Services for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's revenues from Google Services for the quarter ended September 30, 2024 were $76,510 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 47,
+      "query": "What were Google's revenues from Google Cloud for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's revenues from Google Cloud for the quarter ended September 30, 2024 were $11,353 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 48,
+      "query": "What were Google's revenues from Other Bets for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's revenues from Other Bets for the quarter ended September 30, 2024 were $388 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 49,
+      "query": "What was Google's operating income from Google Services for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's operating income from Google Services for the quarter ended September 30, 2024 was $30,856 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 50,
+      "query": "What was Google's operating income from Google Cloud for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's operating income from Google Cloud for the quarter ended September 30, 2024 was $1,947 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 51,
+      "query": "What was Google's operating loss from Other Bets for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's operating loss from Other Bets for the quarter ended September 30, 2024 was $1,116 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 52,
+      "query": "What was Google's operating loss from Alphabet-level activities for the quarter ended September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's operating loss from Alphabet-level activities for the quarter ended September 30, 2024 was $3,166 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 53,
+      "query": "What were Google's total revenues for the year to date September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's total revenues for the year to date September 30, 2024 were $253,549 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 54,
+      "query": "What was Google's net income for the year to date September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's net income for the year to date September 30, 2024 was $73,582 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 55,
+      "query": "What was Google's diluted earnings per share for the year to date September 30, 2024?",
+      "expectedResult": {
+        "content": "Google's diluted earnings per share for the year to date September 30, 2024 was $5.90.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Google_Earnings_Call_Q3_2024.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 56,
+      "query": "What was Apple's total net sales for the three months ended September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's total net sales for the three months ended September 28, 2024 was $94,930 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 57,
+      "query": "What was Apple's diluted earnings per share for Q4 2024 before adjusting for the European Court decision?",
+      "expectedResult": {
+        "content": "Apple's diluted earnings per share for Q4 2024 was $0.97 before adjustments.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 58,
+      "query": "How much was Apple's Services revenue for the full fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's Services revenue for fiscal year 2024 was $96,169 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 59,
+      "query": "What was Apple's iPhone revenue for Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's iPhone revenue for Q4 2024 was $46,222 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 60,
+      "query": "What was Apple's cash and cash equivalents balance as of September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's cash and cash equivalents balance as of September 28, 2024 was $29,943 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 61,
+      "query": "What was Apple's operating income for the full fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's operating income for fiscal year 2024 was $123,216 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 62,
+      "query": "What was Apple's revenue from Greater China region in Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's revenue from Greater China region in Q4 2024 was $15,033 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 63,
+      "query": "What was Apple's research and development expense for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's research and development expense for fiscal year 2024 was $31,370 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 64,
+      "query": "What was Apple's total shareholders' equity as of September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's total shareholders' equity as of September 28, 2024 was $56,950 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 65,
+      "query": "What was Apple's cash generated by operating activities in fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's cash generated by operating activities in fiscal year 2024 was $118,254 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 66,
+      "query": "What was Apple's adjusted (non-GAAP) diluted earnings per share for Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's adjusted (non-GAAP) diluted earnings per share for Q4 2024 was $1.64.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 67,
+      "query": "What was Apple's total term debt (current and non-current) as of September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's total term debt as of September 28, 2024 was $96,662 million ($10,912 million current + $85,750 million non-current).",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 68,
+      "query": "What was Apple's revenue from Wearables, Home and Accessories for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's revenue from Wearables, Home and Accessories for fiscal year 2024 was $37,005 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 69,
+      "query": "What was Apple's share-based compensation expense for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's share-based compensation expense for fiscal year 2024 was $11,688 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 70,
+      "query": "What was Apple's cash dividend declared per share for Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's cash dividend declared was $0.25 per share.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 71,
+      "query": "What was Apple's total revenue from Europe for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's total revenue from Europe for fiscal year 2024 was $101,328 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 72,
+      "query": "What was Apple's gross margin for Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's gross margin for Q4 2024 was $43,879 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 73,
+      "query": "What was Apple's Mac revenue for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's Mac revenue for fiscal year 2024 was $29,984 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 74,
+      "query": "What was Apple's total marketable securities (current and non-current) as of September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's total marketable securities as of September 28, 2024 was $126,707 million ($35,228 million current + $91,479 million non-current).",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 75,
+      "query": "What was Apple's total operating expenses for Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's total operating expenses for Q4 2024 was $14,288 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 76,
+      "query": "What was Apple's iPad revenue for Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's iPad revenue for Q4 2024 was $6,950 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 77,
+      "query": "What was Apple's revenue from Japan for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's revenue from Japan for fiscal year 2024 was $25,052 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 78,
+      "query": "What was Apple's total cost of sales for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's total cost of sales for fiscal year 2024 was $210,352 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 79,
+      "query": "What was Apple's total current assets as of September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's total current assets as of September 28, 2024 was $152,987 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 80,
+      "query": "What was Apple's net income for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's net income for fiscal year 2024 was $93,736 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 81,
+      "query": "What was Apple's total liabilities as of September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's total liabilities as of September 28, 2024 was $308,030 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 82,
+      "query": "What was Apple's basic earnings per share for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's basic earnings per share for fiscal year 2024 was $6.11.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 83,
+      "query": "What was Apple's accounts receivable, net as of September 28, 2024?",
+      "expectedResult": {
+        "content": "Apple's accounts receivable, net as of September 28, 2024 was $33,410 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 84,
+      "query": "What was Apple's total revenue from Americas region for fiscal year 2024?",
+      "expectedResult": {
+        "content": "Apple's total revenue from Americas region for fiscal year 2024 was $167,045 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 85,
+      "query": "What was Apple's Services cost of sales for Q4 2024?",
+      "expectedResult": {
+        "content": "Apple's Services cost of sales for Q4 2024 was $6,485 million.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 86,
+      "query": "What is Apple's plan to colonize Mars?",
+      "expectedResult": {
+        "content": "I cannot find any information in the financial statements about Apple's plans to colonize Mars. The documents only contain financial data and business performance metrics.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 87,
+      "query": "Who is Tim Cook's favorite superhero?",
+      "expectedResult": {
+        "content": "This information is not available in the financial statements. The documents contain only financial and business-related information.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 88,
+      "query": "What color are the walls in Apple's headquarters?",
+      "expectedResult": {
+        "content": "The financial statements do not contain information about the physical appearance of Apple's headquarters. The documents focus on financial data and performance metrics.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 89,
+      "query": "Did Apple make any investments in cryptocurrency in 2024?",
+      "expectedResult": {
+        "content": "The financial statements do not mention any specific cryptocurrency investments. While the documents detail Apple's investments and financial activities, there is no explicit mention of cryptocurrency investments.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 90,
+      "query": "What is the average age of Apple employees?",
+      "expectedResult": {
+        "content": "This information is not available in the financial statements. While the documents contain employee-related expenses and compensation data, they do not include demographic information about employees.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 91,
+      "query": "What percentage of Apple employees work remotely?",
+      "expectedResult": {
+        "content": "The financial statements do not provide information about employee work arrangements or remote work statistics. While there are details about employee-related expenses, specific workplace arrangements are not disclosed.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 92,
+      "query": "How many cups of coffee are consumed daily at Apple Park?",
+      "expectedResult": {
+        "content": "This information about coffee consumption at Apple Park is not included in the financial statements. The documents focus on financial performance and business metrics rather than workplace amenities or consumption patterns.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 93,
+      "query": "What will be Apple's iPhone revenue in 2025?",
+      "expectedResult": {
+        "content": "The financial statements only contain historical and current financial data up to 2024. They do not include future projections or forecasts for iPhone revenue in 2025.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 94,
+      "query": "How many times did Tim Cook mention Steve Jobs in earnings calls?",
+      "expectedResult": {
+        "content": "While the financial statements include earnings data, they do not contain transcripts of earnings calls or record mentions of specific individuals during these calls.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 95,
+      "query": "What is the environmental impact of Apple's manufacturing process?",
+      "expectedResult": {
+        "content": "While the financial statements may include some environmental-related expenses, they do not provide detailed information about the environmental impact of manufacturing processes. This type of information would typically be found in sustainability reports rather than financial statements.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 96,
+      "query": "How much does Apple spend on office snacks and beverages annually?",
+      "expectedResult": {
+        "content": "While the financial statements include operating expenses, they do not break down specific details about office amenities like snacks and beverages. This level of detail is not provided in the financial statements.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 97,
+      "query": "What is the most popular programming language used at Apple?",
+      "expectedResult": {
+        "content": "The financial statements do not contain information about technical implementation details or programming languages used at Apple. This type of operational detail is not included in financial reports.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 98,
+      "query": "Has Apple considered acquiring Disney?",
+      "expectedResult": {
+        "content": "While the financial statements detail Apple's current assets, liabilities, and some investment activities, they do not discuss potential or speculative acquisition plans. Any such strategic discussions would not typically be included in financial statements.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 99,
+      "query": "What is the employee satisfaction rate at Apple?",
+      "expectedResult": {
+        "content": "The financial statements do not include employee satisfaction metrics or survey results. While they contain information about employee-related expenses and compensation, internal satisfaction measures are not part of financial reporting.",
+        "expectedCitations": {
+          "sources": []
+        }
+      }
+    },
+    {
+      "id": 100,
+      "query": "How many patents did Apple file in 2024?",
+      "expectedResult": {
+        "content": "While the financial statements include R&D expenses and intellectual property-related costs, they do not provide specific counts of patent filings. This level of detail about intellectual property activity is not included in the financial statements.",
+        "expectedCitations": {
+          "sources": [
+            {
+              "file": "Apple_Financial_Statements.pdf"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "version": "2.0",
+    "description": "Evaluation dataset based on Google's earnings call content analysis",
+    "metrics": [
+      "accuracy",
+      "relevance",
+      "citation_quality"
+    ]
+  }
+}
