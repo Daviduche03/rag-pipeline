@@ -12,13 +12,13 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
-app.post("/generate-text", async (req, res) => {
+app.post("/query", async (req, res) => {
   try {
-    const { text } = req.body;
+    const { query } = req.body;
     const messages = [
       {
         role: "user",
-        content: text,
+        content: query,
       },
     ];
     const result = await new Agent().processMessage(messages);

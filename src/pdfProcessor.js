@@ -5,7 +5,7 @@ import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { DocumentManager } from './embeddings.js';
 import pdfParse from 'pdf-parse/lib/pdf-parse.js';
 
-const documentManager = new DocumentManager("pdf-documents");
+const documentManager = new DocumentManager("documents");
 await documentManager.initialize();
 
 export class PDFProcessor {

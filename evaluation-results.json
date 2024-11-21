@@ -1,7 +1,10 @@
 {
   "success_rate": 1,
-  "accuracy": 0.7829294419827592,
-  "relevance": 0.8012615601410115,
-  "citation_quality": 0.28613333333333335,
-  "response_time": 3111
+  "accuracy": 0.7782925010542938,
+  "relevance": 0.8003212786037716,
+  "citation_quality": 0.2821333333333334,
+  "response_time": 3093.3,
+  "total_queries": 100,
+  "successful_queries": 100,
+  "errors": []
 }

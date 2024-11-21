@@ -12,7 +12,7 @@ async function testGenerateText() {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        text: 'What was Google\'s total revenue for Q3 2023?'
+        query: 'What was Google\'s total revenue for Q3 2023?'
       })
     });
     
@@ -36,7 +36,7 @@ async function testGenerateText() {
 
     // Test 3: Long text
     console.log('\nTest 3: Long text');
-    const response3 = await fetch(`${API_URL}/generate-text`, {
+    const response3 = await fetch(`${API_URL}/query`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

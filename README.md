@@ -106,7 +106,7 @@ Comprehensive testing and metrics calculation system:
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Daviduche03/rag-pipeline
 cd rag-pipeline
 ```
 
@@ -118,9 +118,21 @@ npm install
 3. Configure environment variables in `.env`:
 ```env
 PORT=3000
-AZURE_OPENAI_API_KEY=your-api-key
-AZURE_OPENAI_API_INSTANCE_NAME=your-instance-name
-AZURE_OPENAI_API_DEPLOYMENT_NAME=your-deployment-name
+# Azure OpenAI Configuration
+AZURE_OPENAI_API_INSTANCE_NAME=
+AZURE_OPENAI_API_EMBEDDINGS_DEPLOYMENT_NAME=
+AZURE_OPENAI_API_VERSION=
+AZURE_OPENAI_ENDPOINT=
+AZURE_OPENAI_API_DEPLOYMENT_NAME=gpt-4o
+# qdrant Configuration
+(https://cloud.qdrant.io/) free keys
+QDRANT_ENDPOINT=
+QDRANT_API_KEY=
+# Application Configuration
+CHUNK_SIZE=1000
+CHUNK_OVERLAP=200
+AZURE_RESOURCE_NAME=
+AZURE_API_KEY=
 ```
 
 ### Usage
@@ -141,35 +153,21 @@ npm start
 
 Upload and process new documents:
 ```bash
-npm run ingest -- --file=path/to/your/document.pdf
+npm run ingest
 ```
 
 #### Running Evaluations
-
-1. Prepare evaluation data:
-```bash
-cp your-test-pdfs/ src/evaluation/dataset/pdfs/
-```
-
-2. Execute evaluation suite:
+1. Execute evaluation suite:
 ```bash
 npm run eval
 ```
 
-3. View evaluation results:
+2. View evaluation results:
 ```bash
 cat evaluation-results.json
 ```
 
 ## API Endpoints
-
-### PDF Upload
-- **POST** `/upload`
-  - Accepts PDF files via multipart/form-data
-  - Returns document ID and processing status
-  ```bash
-  curl -X POST -F "file=@document.pdf" http://localhost:3000/upload
-  ```
 
 ### Query Document
 - **POST** `/query`
@@ -223,7 +221,7 @@ cat evaluation-results.json
 - Context preservation
 
 ### 4. Performance
-- Response latency
+- Response latency (in millisec)
 - Processing throughput
 - Resource efficiency
 
