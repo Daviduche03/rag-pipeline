@@ -119,6 +119,7 @@ npm install
 ```env
 PORT=3000
 # Azure OpenAI Configuration
+(https://oai.azure.com/)
 AZURE_OPENAI_API_INSTANCE_NAME=
 AZURE_OPENAI_API_EMBEDDINGS_DEPLOYMENT_NAME=
 AZURE_OPENAI_API_VERSION=
