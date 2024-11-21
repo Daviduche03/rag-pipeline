@@ -6,7 +6,7 @@ async function testGenerateText() {
   try {
     // Test 1: Basic text generation
     console.log('\nTest 1: Basic text generation');
-    const response1 = await fetch(`${API_URL}/generate-text`, {
+    const response1 = await fetch(`${API_URL}/query`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -21,13 +21,13 @@ async function testGenerateText() {
 
     // Test 2: Empty text
     console.log('\nTest 2: Empty text');
-    const response2 = await fetch(`${API_URL}/generate-text`, {
+    const response2 = await fetch(`${API_URL}/query`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        text: 'What is the year-over-year growth in advertising revenue for google?'
+        query: 'What is the year-over-year growth in advertising revenue for google?'
       })
     });
     
@@ -42,7 +42,7 @@ async function testGenerateText() {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        text: 'How did Google Cloud perform in Q3 2023?'
+        query: 'How did Google Cloud perform in Q3 2023?'
       })
     });
     
